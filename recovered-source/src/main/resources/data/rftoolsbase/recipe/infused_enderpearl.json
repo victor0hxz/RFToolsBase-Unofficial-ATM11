@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "o": "#c:ender_pearls",
+    "s": "rftoolsbase:dimensionalshard"
+  },
+  "pattern": [
+    "sss",
+    "sos",
+    "sss"
+  ],
+  "result": {
+    "count": 1,
+    "id": "rftoolsbase:infused_enderpearl"
+  }
+}

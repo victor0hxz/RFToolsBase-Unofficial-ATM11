@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": "minecraft:crafting_table",
+    "p": "minecraft:paper",
+    "r": "minecraft:redstone"
+  },
+  "pattern": [
+    "pC",
+    "rp"
+  ],
+  "result": {
+    "count": 8,
+    "id": "rftoolsbase:crafting_card"
+  }
+}

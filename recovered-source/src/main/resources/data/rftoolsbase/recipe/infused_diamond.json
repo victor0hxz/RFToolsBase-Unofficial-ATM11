@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "d": "minecraft:diamond",
+    "s": "rftoolsbase:dimensionalshard"
+  },
+  "pattern": [
+    "sss",
+    "sds",
+    "sss"
+  ],
+  "result": {
+    "count": 1,
+    "id": "rftoolsbase:infused_diamond"
+  }
+}

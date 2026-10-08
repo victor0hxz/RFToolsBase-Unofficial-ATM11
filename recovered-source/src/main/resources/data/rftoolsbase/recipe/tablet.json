@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "Q": "minecraft:quartz_block",
+    "R": "minecraft:redstone_block",
+    "e": "minecraft:emerald",
+    "g": "#c:nuggets/gold"
+  },
+  "pattern": [
+    "geg",
+    "RQR",
+    "gRg"
+  ],
+  "result": {
+    "count": 1,
+    "id": "rftoolsbase:tablet"
+  }
+}

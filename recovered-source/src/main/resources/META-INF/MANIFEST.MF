@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: rftoolsbase
+Specification-Vendor: McJty
+Specification-Version: 1
+Implementation-Title: RFToolsBase
+Implementation-Version: 26.1.2-7.0.0-atm11
+Implementation-Vendor: McJty
+Implementation-Timestamp: 2026-09-27T20:30:28-0300
+

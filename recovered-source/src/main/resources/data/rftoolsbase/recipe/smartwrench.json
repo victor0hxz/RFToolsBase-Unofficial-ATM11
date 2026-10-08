@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "i": "#c:ingots/iron",
+    "l": "#c:dyes/blue"
+  },
+  "pattern": [
+    "  i",
+    " l ",
+    "l  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "rftoolsbase:smartwrench"
+  }
+}
